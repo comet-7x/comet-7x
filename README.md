@@ -1,5 +1,7 @@
 ## Hi my name is Zhihao Liu
 
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=comet-7x&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+
 <!-- GitHub 活动统计图 -->
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=comet-7x&theme=react&bg_color=ffffff&color=222222&line=61dafb&point=61dafb&area=true&hide_border=true)
 
