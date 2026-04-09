@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=comet-7x)
 
 <!-- GitHub 使用语言统计 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comet-7x&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comet-7x&layout=compact&langs_count=8)
 
 <!-- GitHub 活动统计图 -->
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=comet-7x&theme=react)
