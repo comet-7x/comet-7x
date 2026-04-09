@@ -1,6 +1,6 @@
 ## Hi my name is Zhihao Liu
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=comet-7x)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=comet-7x&show_icons=true&theme=radical)
 
 <!-- GitHub 活动统计图 -->
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=comet-7x&theme=react&bg_color=ffffff&color=222222&line=61dafb&point=61dafb&area=true&hide_border=true)
