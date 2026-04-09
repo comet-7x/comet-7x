@@ -1,10 +1,4 @@
-## Hi there 👋
-
-<!-- GitHub 统计卡片 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=comet-7x)
-
-<!-- GitHub 使用语言统计 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comet-7x&layout=compact&langs_count=8)
+## Hi my name is Zhihao Liu
 
 <!-- GitHub 活动统计图 -->
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react&bg_color=ffffff&color=222222&line=61dafb&point=61dafb&area=true&hide_border=true)
