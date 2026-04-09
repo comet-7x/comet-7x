@@ -1,7 +1,7 @@
 ## Hi my name is Zhihao Liu
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=comet-7x&show_icons=true&theme=synthwave" alt="Zhihao Liu's Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=comet-7x&show_icons=true&theme=dracula" alt="Zhihao Liu's Stats" />
 </p>
 
 <picture>
