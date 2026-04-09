@@ -1,8 +1,10 @@
 ## Hi my name is Zhihao Liu
 
-![Zhihao's GitHub stats](https://github-readme-stats.shion.dev/api?username=comet-7x&show_icons=true&theme=radical)
-
 ![Zhihao's github activity](https://github-readme-activity-graph.vercel.app/graph?username=comet-7x&theme=react&bg_color=ffffff&color=222222&line=61dafb&point=61dafb&area=true&hide_border=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=comet-7x&show_icons=true&theme=cobalt" alt="Zhihao Liu's Stats" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/comet-7x/comet-7x/output/github-contribution-grid-snake-dark.svg">
