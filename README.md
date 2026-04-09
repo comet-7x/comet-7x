@@ -1,7 +1,7 @@
 ## Hi my name is Zhihao Liu
 
 <!-- GitHub 活动统计图 -->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react&bg_color=ffffff&color=222222&line=61dafb&point=61dafb&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=comet-7x&theme=react&bg_color=ffffff&color=222222&line=61dafb&point=61dafb&area=true&hide_border=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/comet-7x/comet-7x/output/github-contribution-grid-snake-dark.svg">
