@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<!-- GitHub 统计卡片 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=comet-7x)
+
+<!-- GitHub 使用语言统计 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comet-7x)
+
+<!-- GitHub 活动统计图 -->
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)
+
 <!--
 **comet-7x/comet-7x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
